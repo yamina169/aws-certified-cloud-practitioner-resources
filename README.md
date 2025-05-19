@@ -10,7 +10,9 @@ Here are some useful links to help you prepare for the AWS Certified Cloud Pract
 
 ✅ https://education.ditectrev.com/modes?url=https%3A%2F%2Fraw.githubusercontent.com%2FDitectrev%2FAmazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C02-Practice-Tests-Exams-Questions-Answers%2Fmain%2FREADME.md&name=AWS+Certified+CLF-C02
 
-🎥 YouTube Video
+🎥 Video
 
 https://www.youtube.com/watch?v=ocVO5feQOeg&t=85517s
+
+https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
 
